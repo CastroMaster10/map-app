@@ -1,26 +1,25 @@
 # map-app
 
-A full stack map application where you can store the places you have visited
+\*A full stack map application where you can store the places you have visited
 
-TODO
+\*TODO
 
-[] Setup Server
-[] Install dependencies
-[] Install / Setup Linter
-[] Express App
-[] Setup Not Found and Error Middlewares
+_[x] Setup Server
+_[x] Install dependencies
+_[x] Install / Setup Linter
+_[x] Express App \*[x] Setup Not Found and Error Middlewares
 
-[] Model DB \* What will we store?
+\*[x] Model DB \* What will we store?
 
-[] Setup Mongoose Model(s)
+\*[x] Setup Mongoose Model(s)
 
-[] POST/logs
+\*[x] POST/logs
 \*create a new log entry
 
-[] GET /logs
+\*[x] GET /logs
 \*list all log entries
 
-[] Setup Client
-[] Create Form to add a new entry
-[] Setup Map SDK on client
-[] List all log entries on map
+_[] Setup Client
+_[] Create Form to add a new entry
+_[] Setup Map SDK on client
+_[] List all log entries on map
